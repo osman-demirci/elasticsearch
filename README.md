@@ -1,7 +1,7 @@
 Run Application
 ---
 ```shell
-./run.sh
+bash run.sh
 ```
 
 Endpoint Testing
