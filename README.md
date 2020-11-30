@@ -1,14 +1,11 @@
-```shell
-[ ! -d ./elasticsearch-data ] && mkdir ./elasticsearch-data
-chown -R 1000:1000 ./elasticsearch-data
-```
-
-#Run Application
+Run Application
+---
 ```shell
 ./run.sh
 ```
 
-#Endpoint Testig
+Endpoint Testig
+---
 HAL Browser
 http://localhost:8080/explorer/index.html#uri=/flights/studyCase
 
