@@ -4,7 +4,7 @@ Run Application
 ./run.sh
 ```
 
-Endpoint Testig
+Endpoint Testing
 ---
 HAL Browser
 http://localhost:8080/explorer/index.html#uri=/flights/studyCase
