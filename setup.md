@@ -4,8 +4,8 @@ chown -R 1000:1000 ./elasticsearch-data
 ```
 
 #Run Application
-```shell
-./run.sh
+```shell 
+bash run.sh
 ```
 
 #Endpoint Testig
